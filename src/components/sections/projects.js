@@ -46,7 +46,7 @@ export default function Projects() {
             {
                 logo: DigitalMarkingLogo,
                 firstHeading: 'Digital Marking',
-                secondHeading: 'https://digitalmarking.site/',
+                secondHeading: 'https://digitalmarking.fly.dev/',
                 paragraphs: [
                     'This project is about Optimal Mark Recognition (OMR) reading which generates bubble sheets and read them with answer key and provide provide success count according to key',
                 ]
